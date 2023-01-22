@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/gabo0802/Go-AngularTest/StringUtilLibrary"
+)
 
 func main() {
-	fmt.Println("Hello, world.")
+	fmt.Println(StringUtilLibrary.Reverse("!oG ,olleH"))
 }
