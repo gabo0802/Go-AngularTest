@@ -3,10 +3,8 @@ package main
 //http://localhost:8080/ping
 
 import (
-	//"fmt"
-
-	"github.com/gabo0802/Go-AngularTest/newsfeeder/httpd/handler"
-	"github.com/gabo0802/Go-AngularTest/newsfeeder/platform/newsfeed"
+	"github.com/gabo0802/Go-AngularTest/api/newsfeeder/httpd/handler"
+	"github.com/gabo0802/Go-AngularTest/api/newsfeeder/platform/newsfeed"
 	"github.com/gin-gonic/gin"
 )
 

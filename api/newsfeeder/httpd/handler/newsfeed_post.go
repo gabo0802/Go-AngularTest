@@ -3,7 +3,7 @@ package handler
 import (
 	"net/http"
 
-	"github.com/gabo0802/Go-AngularTest/newsfeeder/platform/newsfeed"
+	"github.com/gabo0802/Go-AngularTest/api/newsfeeder/platform/newsfeed"
 	"github.com/gin-gonic/gin"
 )
 
