@@ -9,7 +9,7 @@ Test code to learn how to use both angular and GO lang in a project.
 
 The following should be installed through go get -u (link)
 
- <code>go get -u github.com/gin-gonic/gin</code>
+ <code>go get -u github.com/gin-gonic/gin</code><br>
  <code>choco install make //for the makefile to work properly</code>
  
 
