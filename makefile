@@ -1,2 +1,2 @@
 dev:
-	go run newsfeeder/httpd/main.go
+	go run api/newsfeeder/httpd/main.go
