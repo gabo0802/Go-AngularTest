@@ -8,10 +8,9 @@ Test code to learn how to use both angular and GO lang in a project.
 * Make sure you have a package manager (preferably chocolatey) / npm installed
 
 The following should be installed:
-
  <code>go get -u github.com/gin-gonic/gin</code><br>
- For the makefile to work properly:
 
+ For the makefile to work properly:
  <code>choco install make </code>
  
 
