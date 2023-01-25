@@ -13,9 +13,13 @@ func main() {
 	feed := newsfeed.New()
 	r := gin.Default()
 
-	r.GET("/ping", handler.PingGet())
-	r.GET("/newsfeed", handler.NewsFeedGet(feed))
-	r.POST("/newsfeed", handler.NewsFeedPost(feed))
+	//This is the magic part that links our api to the angular app
+	api := r.Group("/api")
+	{
+		api.GET("/ping", handler.PingGet())
+		api.GET("/newsfeed", handler.NewsFeedGet(feed))
+		api.POST("/newsfeed", handler.NewsFeedPost(feed))
+	}
 
 	r.Run("0.0.0.0:5000")
 
