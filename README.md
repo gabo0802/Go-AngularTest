@@ -17,7 +17,7 @@ The following should be installed:
 ## Sources:
 ### It is strongly recommended that you watch these videos while looking at this code:
 
-Go Code from the following Youtube Video: <link>https://www.youtube.com/watch?v=LOn1GUsjOF4&list=LL&index=2</link> 
+Go Code from the following Youtube Video: <link target="_blank">https://www.youtube.com/watch?v=LOn1GUsjOF4&list=LL&index=2</link> 
 
 Angular implementation within the Go code based on the following YouTube Video: <link>https://www.youtube.com/watch?v=pHRHJCYBqxw&list=LL&index=1</link>
 
