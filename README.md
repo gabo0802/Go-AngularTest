@@ -17,8 +17,8 @@ The following should be installed:
 ## Sources:
 ### It is strongly recommended that you watch these videos while looking at this code:
 
-Go Code from the following Youtube Video: <link>https://www.youtube.com/watch?v=LOn1GUsjOF4&list=LL&index=2</link> 
+Go Code from the following Youtube Video: <a href="https://www.youtube.com/watch?v=LOn1GUsjOF4&list=LL&index=2" target="_blank">Click Here</a> 
 
-Angular implementation within the Go code based on the following YouTube Video: <link>https://www.youtube.com/watch?v=pHRHJCYBqxw&list=LL&index=1</link>
+Angular implementation within the Go code based on the following YouTube Video: <a href="https://www.youtube.com/watch?v=pHRHJCYBqxw&list=LL&index=1" target="_blank">Click Here</a>
 
 * left at second video, time stamp is 17:32
