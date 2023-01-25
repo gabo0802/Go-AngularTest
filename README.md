@@ -23,4 +23,3 @@ Go Code from the following Youtube Video: <a href="https://www.youtube.com/watch
 
 Angular implementation within the Go code based on the following YouTube Video: <a href="https://www.youtube.com/watch?v=pHRHJCYBqxw&list=LL&index=1" target="_blank">Click Here</a>
 
-* left at second video, time stamp is 17:32
