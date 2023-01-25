@@ -21,3 +21,4 @@ Go Code from the following Youtube Video: <link>https://www.youtube.com/watch?v=
 
 Angular implementation within the Go code based on the following YouTube Video: <link>https://www.youtube.com/watch?v=pHRHJCYBqxw&list=LL&index=1</link>
 
+* left at second video, time stamp is 17:32
