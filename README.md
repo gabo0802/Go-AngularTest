@@ -13,6 +13,8 @@ The following should be installed:
  For the makefile to work properly:
  <code>choco install make </code>
  
+ See youtube videos to see which libraries are needed for the projcet
+ 
 
 ## Sources:
 ### It is strongly recommended that you watch these videos while looking at this code:
