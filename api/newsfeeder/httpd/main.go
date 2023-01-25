@@ -17,6 +17,6 @@ func main() {
 	r.GET("/newsfeed", handler.NewsFeedGet(feed))
 	r.POST("/newsfeed", handler.NewsFeedPost(feed))
 
-	r.Run()
+	r.Run("0.0.0.0:5000")
 
 }
